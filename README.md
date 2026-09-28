@@ -1,6 +1,6 @@
-# Leitores Txt Dominio
+# Demonstração — Conversão de TXT de notas para importação na Domínio
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de conversão de TXT de notas para importação na Domínio — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Arquivos TXT de notas de saída, entrada e serviços tomados precisavam ser convertidos para o leiaute de importação da Domínio.
